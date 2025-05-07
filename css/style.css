@@ -8,7 +8,7 @@ body {
 } 
 
 .container {
-    height: 93vh;
+    height: 85vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -107,8 +107,4 @@ footer a {
         margin: 0 auto;
         max-width: 200px;
     }
-  }
-
-@media only screen and (max-width: 600px) {
-    
   }
