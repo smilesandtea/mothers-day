@@ -1,0 +1,28 @@
+.quote-box {
+    background: #f4f0ff;
+    border: 2px solid #6961b1;
+    border-radius: 12px;
+    padding: 5rem;
+    text-align: center;
+    max-width: 600px;
+    margin: 2rem auto;
+    font-size: 1.5em;
+    font-family: 'Garamond', serif;
+    box-shadow: 2px 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  button {
+    background-color: #574A80;
+    border: none;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    font-family: "Poiret One", sans-serif;
+    font-size: 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #73669d;
+  }
